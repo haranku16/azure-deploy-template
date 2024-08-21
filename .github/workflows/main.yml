@@ -1,4 +1,4 @@
-name: Trigger auto deployment to Docker Hub
+name: Trigger auto deployment to Docker Hub (minor edit to trigger deployment through Github Actions)
 
 # When this action will be executed
 on:
